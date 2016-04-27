@@ -1,27 +1,20 @@
 Hosts
 =====
-
-无障碍上网-你~懂得！ **更新频率7d** ，需要请 [fork][1]
-
 by huhamhire-hosts
 
-#### 使用方法
+
 
 ##### Windows：
 
-不废话了：
-
-    C:\Windows\System32\drivers\etc\hosts
+ C:\Windows\System32\drivers\etc\hosts
 
 ##### MAC OSX
 
-最直观的方法：
+ sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts
 
-    sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts
 
-那么就可以用记事本复制了
 
-#### 更新记录
+#### version released
 
 > Version: 1.5.7
 > BuildTime: 1429952085
